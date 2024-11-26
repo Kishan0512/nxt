@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230432440545",
+    "firebase_url": "https://nextapp-b14378-default-rtdb.firebaseio.com",
+    "project_id": "nextapp-b14378",
+    "storage_bucket": "nextapp-b14378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230432440545:android:ac732a0a9f595eed5a37a0",
+        "android_client_info": {
+          "package_name": "com.app.nextapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230432440545-405jiuv0eqbcaja4rs9v39vnf882e753.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.nextapp",
+            "certificate_hash": "47cd3a84926f4b6eca868082ced7e81914d9150f"
+          }
+        },
+        {
+          "client_id": "230432440545-sgasf6cjh3jnit3df980bu1acbm8ln9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32BnpttpPdsdTwqV5pU77WoIA39CviYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230432440545-sgasf6cjh3jnit3df980bu1acbm8ln9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
